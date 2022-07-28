@@ -1,0 +1,12 @@
+{
+    "Sequence": [
+        "one",
+        "two",
+        "three"
+    ],
+    "Mapping": {
+        "earth": "brown",
+        "sea": "green",
+        "sky": "blue"
+    }
+}
